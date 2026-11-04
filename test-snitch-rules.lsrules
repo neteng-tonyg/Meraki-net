@@ -1,0 +1,35 @@
+    {
+      "action" : "allow",
+      "creationDate" : "2026-10-22T23:54:20Z",
+      "expiryDate" : "2026-11-21T23:54:20Z",
+      "factoryHelpText" : "#generated\naction: allow\ndate: 814406060.006018\ndirection: outgoing\norigin: alert\npeer: config.edge.skype.com\nport: 443\nprocessPath: /Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge\nprotocol: 6\nviaProcessPath: /Applications/Microsoft Edge.app/Contents/Frameworks/Microsoft Edge Framework.framework/Versions/154.0.4258.53/Helpers/Microsoft Edge Helper.app/Contents/MacOS/Microsoft Edge Helper\n",
+      "lifetime" : "untilExpiryDate",
+      "modificationDate" : "2026-10-22T23:54:20Z",
+      "origin" : "alert",
+      "process" : "/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge",
+      "remote-domains" : "config.edge.skype.com",
+      "uid" : 501
+    },
+    {
+      "action" : "allow",
+      "creationDate" : "2026-10-22T23:54:38Z",
+      "expiryDate" : "2026-11-21T23:54:38Z",
+      "factoryHelpText" : "#generated\naction: allow\ndate: 814406078.327974\ndirection: outgoing\norigin: alert\npeer: edge.microsoft.com\nport: 443\nprocessPath: /Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge\nprotocol: 6\nviaProcessPath: /Applications/Microsoft Edge.app/Contents/Frameworks/Microsoft Edge Framework.framework/Versions/154.0.4258.53/Helpers/Microsoft Edge Helper.app/Contents/MacOS/Microsoft Edge Helper\n",
+      "lifetime" : "untilExpiryDate",
+      "modificationDate" : "2026-10-22T23:54:38Z",
+      "origin" : "alert",
+      "process" : "/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge",
+      "remote-domains" : "edge.microsoft.com",
+      "uid" : 501
+    },
+    {
+      "action" : "allow",
+      "creationDate" : "2026-10-22T23:54:45Z",
+      "factoryHelpText" : "#generated\naction: allow\ndate: 814406085.204273\ndirection: outgoing\norigin: alert\npeer: api.edgeoffer.microsoft.com\nport: 443\nprocessPath: /Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge\nprotocol: 6\nviaProcessPath: /Applications/Microsoft Edge.app/Contents/Frameworks/Microsoft Edge Framework.framework/Versions/154.0.4258.53/Helpers/Microsoft Edge Helper.app/Contents/MacOS/Microsoft Edge Helper\n",
+      "modificationDate" : "2026-10-22T23:54:45Z",
+      "origin" : "alert",
+      "process" : "/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge",
+      "remote-domains" : "edgeoffer.microsoft.com",
+      "uid" : 501
+    }
+	
