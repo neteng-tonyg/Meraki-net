@@ -5,7 +5,7 @@
     {
       "action" : "allow",
       "process" : "/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge",
-      "remote-domains" : "config.edge.skype.com",
+      "remote-domains" : "config.edge.skype.com"
     }
      ]
  }
